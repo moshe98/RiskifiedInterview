@@ -1,0 +1,160 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/paymentGatewaySimulation.Business.csproj": {}
+  },
+  "projects": {
+    "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/paymentGatewaySimulation.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/paymentGatewaySimulation.Business.csproj",
+        "projectName": "paymentGatewaySimulation.Business",
+        "projectPath": "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/paymentGatewaySimulation.Business.csproj",
+        "packagesPath": "/Users/MosheBerdugo/.nuget/packages/",
+        "outputPath": "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/MosheBerdugo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/paymentGatewaySimulation.Model.csproj": {
+                "projectPath": "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/paymentGatewaySimulation.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.1, )"
+            },
+            "Microsoft.AspNet.WebApi.Client": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.Extensions.Http.Polly": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Polly": {
+              "target": "Package",
+              "version": "[7.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/paymentGatewaySimulation.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/paymentGatewaySimulation.Model.csproj",
+        "projectName": "paymentGatewaySimulation.Model",
+        "projectPath": "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/paymentGatewaySimulation.Model.csproj",
+        "packagesPath": "/Users/MosheBerdugo/.nuget/packages/",
+        "outputPath": "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/MosheBerdugo/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

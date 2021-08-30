@@ -1,0 +1,17 @@
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/bin/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.deps.json
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/bin/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.dll
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/bin/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.pdb
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/bin/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.dll
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/bin/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.pdb
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.csproj.AssemblyReference.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.AssemblyInfoInputs.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.AssemblyInfo.cs
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.csproj.CoreCompileInputs.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/staticwebassets/paymentGatewaySimulation.Business.StaticWebAssets.Manifest.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/staticwebassets/paymentGatewaySimulation.Business.StaticWebAssets.xml
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/scopedcss/bundle/paymentGatewaySimulation.Business.styles.css
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.RazorTargetAssemblyInfo.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.csproj.CopyComplete
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.dll
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Business/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Business.pdb

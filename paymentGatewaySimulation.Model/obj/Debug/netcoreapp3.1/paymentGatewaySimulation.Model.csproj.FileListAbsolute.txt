@@ -1,0 +1,14 @@
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.csproj.AssemblyReference.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.GeneratedMSBuildEditorConfig.editorconfig
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.AssemblyInfoInputs.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.AssemblyInfo.cs
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.csproj.CoreCompileInputs.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/bin/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.deps.json
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/bin/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.dll
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/bin/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.pdb
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/staticwebassets/paymentGatewaySimulation.Model.StaticWebAssets.Manifest.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/staticwebassets/paymentGatewaySimulation.Model.StaticWebAssets.xml
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/scopedcss/bundle/paymentGatewaySimulation.Model.styles.css
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.RazorTargetAssemblyInfo.cache
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.dll
+/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/obj/Debug/netcoreapp3.1/paymentGatewaySimulation.Model.pdb

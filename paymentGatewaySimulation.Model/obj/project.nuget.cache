@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SnRmC0gPKnrw5ldji59xtogl3LiJfyqIkVFtP0UOOzciHjW4M3DEWpCAWmKzmnw9rk6ZoANuIIOsIy4Jdaw7rA==",
+  "success": true,
+  "projectFilePath": "/Users/MosheBerdugo/Projects/RiskifiedTask/paymentGatewaySimulation.Model/paymentGatewaySimulation.Model.csproj",
+  "expectedPackageFiles": [
+    "/Users/MosheBerdugo/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
